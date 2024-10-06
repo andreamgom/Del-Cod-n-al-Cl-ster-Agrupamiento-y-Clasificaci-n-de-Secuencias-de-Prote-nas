@@ -2,6 +2,9 @@
 
 ## Del Codón al Clúster: Agrupamiento y Clasificación de Secuencias de Proteínas
 
+- **Laura Lasso García**
+- **Andrea Mayor Gómez**
+
 ### Descripción
 
 Este código realiza la clasificación de secuencias de proteínas utilizando técnicas de agrupamiento no supervisado y modelos de clasificación supervisada. El código aborda el problema de clasificación de proteínas basado en sus secuencias, utilizando técnicas de aprendizaje automático como *K-Means clustering* para agrupar las secuencias y clasificadores supervisados como *Random Forest* y *SVM* para entrenar y evaluar los datos etiquetados.
